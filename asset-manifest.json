@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/COAP/static/css/main.5fa15792.css",
-    "main.js": "/COAP/static/js/main.00fec571.js",
+    "main.css": "/COAP/static/css/main.b8a37cdd.css",
+    "main.js": "/COAP/static/js/main.089ae5e6.js",
     "index.html": "/COAP/index.html",
-    "main.5fa15792.css.map": "/COAP/static/css/main.5fa15792.css.map",
-    "main.00fec571.js.map": "/COAP/static/js/main.00fec571.js.map"
+    "main.b8a37cdd.css.map": "/COAP/static/css/main.b8a37cdd.css.map",
+    "main.089ae5e6.js.map": "/COAP/static/js/main.089ae5e6.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fa15792.css",
-    "static/js/main.00fec571.js"
+    "static/css/main.b8a37cdd.css",
+    "static/js/main.089ae5e6.js"
   ]
 }
