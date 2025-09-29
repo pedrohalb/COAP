@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# 💻 COAP INFOTECH – Notebooks Seminovos
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![React](https://img.shields.io/badge/React-19.1.0-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
+[![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.15.0-black?style=for-the-badge&logo=framer)](https://www.framer.com/motion/)
+[![Heroicons](https://img.shields.io/badge/Heroicons-2.2.0-blue?style=for-the-badge&logo=heroicons)](https://heroicons.com/)
+[![Lucide React](https://img.shields.io/badge/Lucide-0.511.0-0ea5e9?style=for-the-badge&logo=lucide)](https://lucide.dev/)
 
-## Available Scripts
+---
+![Preview InfiniteSearch](frontend/public/preview.png)
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🧠 Sobre o Projeto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**COAP INFOTECH** é uma aplicação web para venda e manutenção de notebooks seminovos, com foco em qualidade, transparência e facilidade de contato. O site oferece:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🎯 Catálogo de notebooks seminovos com detalhes e imagens
+- 🖼️ Carrossel de produtos e avaliações de clientes
+- 📱 Integração direta com WhatsApp para compra e suporte
+- 📢 Seção de contato com redes sociais e formulário
+- 💡 Interface moderna, responsiva e animada
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## ⚙️ Tecnologias Utilizadas
 
-### `npm run build`
+### 🎨 Front-end (React)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+| Biblioteca         | Finalidade                                      |
+|--------------------|-------------------------------------------------|
+| **React**          | Framework principal da interface SPA            |
+| **React Router DOM** | Roteamento entre páginas                       |
+| **Framer Motion**  | Animações suaves em carrosséis e transições     |
+| **Heroicons**      | Ícones SVG modernos para UI                     |
+| **Lucide React**   | Ícones adicionais e navegação                   |
+| **@testing-library** | Testes de componentes e DOM                    |
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## ▶️ Como Executar
 
-### `npm run eject`
+```bash
+# Instale as dependências
+npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Rode o projeto localmente
+npm start
