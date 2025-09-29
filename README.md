@@ -6,7 +6,7 @@
 [![Lucide React](https://img.shields.io/badge/Lucide-0.511.0-0ea5e9?style=for-the-badge&logo=lucide)](https://lucide.dev/)
 
 ---
-![Preview InfiniteSearch](frontend/public/preview.png)
+![Preview InfiniteSearch](public/imagens/tela.png)
 
 ---
 
