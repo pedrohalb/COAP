@@ -8,7 +8,7 @@
 ---
 Acesse o site: https://www.coapinfotech.com.br
 
-![Preview InfiniteSearch](public/images/tela.png)
+![Preview InfiniteSearch](https://raw.githubusercontent.com/usuario/repositorio/main/public/images/tela.png)
 
 ---
 
