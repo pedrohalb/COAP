@@ -6,7 +6,7 @@
 [![Lucide React](https://img.shields.io/badge/Lucide-0.511.0-0ea5e9?style=for-the-badge&logo=lucide)](https://lucide.dev/)
 
 ---
-Acesse o site: https://elastic-front.vercel.app
+Acesse o site: https://www.coapinfotech.com.br
 
 ![Preview InfiniteSearch](public/images/tela.png)
 
